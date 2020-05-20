@@ -1,3 +1,7 @@
+$testColor: orange;
 $primary: teal;
 $danger: purple;
 @import "~bootstrap/scss/bootstrap";
+body {
+    background-color: deepskyblue;
+}
